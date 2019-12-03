@@ -1,0 +1,14 @@
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Infra.Data1.dll.config
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Infra.Data1.dll
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Infra.Data1.pdb
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\EntityFramework.dll
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\EntityFramework.xml
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data1.dll
+C:\Users\jefferson.gomes\Documents\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data1.pdb
