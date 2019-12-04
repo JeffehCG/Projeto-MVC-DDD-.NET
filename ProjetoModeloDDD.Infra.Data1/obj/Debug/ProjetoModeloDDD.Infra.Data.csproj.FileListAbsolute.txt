@@ -26,3 +26,17 @@ C:\Users\jefferson.gomes\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infr
 C:\Users\jefferson.gomes\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
 C:\Users\jefferson.gomes\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data1.dll
 C:\Users\jefferson.gomes\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data1.pdb
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Infra.Data1.dll.config
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Infra.Data1.dll
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Infra.Data1.pdb
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\EntityFramework.dll
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\EntityFramework.xml
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data1.dll
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Infra.Data1\obj\Debug\ProjetoModeloDDD.Infra.Data1.pdb
