@@ -14,4 +14,3 @@ C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.D
 C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
 C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
-C:\Users\Bruno Kenji Tomine\Documents\GitHub\Projeto-MVC-.NET\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojAssemblyReference.cache
